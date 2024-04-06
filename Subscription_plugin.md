@@ -13,6 +13,11 @@ The Subscription Plugin allows users to subscribe to services by calling the `su
 ### DevEx Improvement
 - Simplifies the implementation of subscription services within Ethereum projects.
 - Streamlines payment processing and subscription management.
+- Provides a user-friendly interface for managing subscriptions, improving the overall developer experience.
+
+### Gas Optimization
+- Optimizes gas usage by providing a streamlined subscription mechanism.
+- Reduces the gas costs associated with managing subscription payments and validation.
 
 ## Features
 
@@ -43,12 +48,8 @@ Steps:
 ## Use Cases
 - **Developer Experience**: Simplifies the integration of subscription-based services into Ethereum projects.
 - **Gas Optimization**: Optimizes gas usage by providing a streamlined subscription mechanism.
+- **Security**: Enhances security by ensuring that only authorized users can access subscription-based services.
 
 ## Usage (Before & After Plugin)
 Before implementing the Subscription Plugin, projects would need to develop custom subscription systems, leading to increased development time and complexity. However, after integrating the plugin, projects can easily incorporate subscription-based services, improving developer experience and project functionality.
 
-## Mandatory
-Include a diagram or video explaining the process/flow of the plugin.
-
-## Tips
-Provide a clear overview of the Subscription Plugin's functionality and value proposition within Ethereum projects. Ensure that readers understand how the plugin works and its benefits for project development and user experience.
