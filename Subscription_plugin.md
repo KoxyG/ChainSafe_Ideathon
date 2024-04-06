@@ -27,7 +27,7 @@ The Subscription Plugin allows users to subscribe to services by calling the `su
 ### Functions
 
 #### `subscribe(address service, uint256 amount) external`
-Description: Allows users to subscribe to services by specifying the service address and subscription amount.
+Description: This demo function Allows users to subscribe to services by specifying the service address and subscription amount.
 
 Steps:
 1. Receives the service address and subscription amount as parameters.
@@ -35,7 +35,7 @@ Steps:
 3. Sets the subscription status to enabled.
 
 #### `collect(address subscriber, uint256 amount) external`
-Description: Collects subscription payments and triggers associated functions in external contracts.
+Description: This demo function Collects subscription payments and triggers associated functions in external contracts.
 
 Steps:
 1. Retrieves the subscription data for the subscriber.
