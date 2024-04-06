@@ -53,3 +53,4 @@ Steps:
 ## Usage (Before & After Plugin)
 Before implementing the Subscription Plugin, projects would need to develop custom subscription systems, leading to increased development time and complexity. However, after integrating the plugin, projects can easily incorporate subscription-based services, improving developer experience and project functionality.
 
+[video explaning](https://go.screenpal.com/watch/cZf1c8VsrmB)
